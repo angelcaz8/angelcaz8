@@ -1,26 +1,30 @@
+
+Aquí tienes el README con las actualizaciones en la sección "Currently Learning":
+
+markdown
+Copiar código
 # Hi there! 👋 I'm José Ángel Castillo
 
-I'm a university student majoring in Automotive Systems Engineering. Currently, I'm deepening my skills in front-end development with the assistance of AI. I’m passionate about combining technology and design to create intuitive user experiences.
+I'm a student of Automotive Systems Engineering with a specialization in Vehicle Technology. I’m passionate about advancing technology in the automotive field and working on projects that bring innovative solutions.
 
 ## 🚀 About Me
-- 🎓 **Major**: Automotive Systems Engineering
-- 🖥️ **Course**: Front-End Development with AI Assistance
-- 🌎 **Languages**: Fluent in Spanish, improving my English
+- 🎓 **Degree**: Automotive Systems Engineering
+- 🔧 **Specialization**: Vehicle Technology
+- 🌎 **Languages**: Native Spanish, improving my English
 
 ## 🛠️ Skills
-- **Front-End Development**: HTML, CSS, JavaScript
-- **Frameworks**: React, Bootstrap
-- **Tools**: Git, VS Code, Figma
-- **Automotive Knowledge**: Fundamentals in vehicle technology and engineering principles
+- **Teamwork**: Collaborating effectively in group settings
+- **Software Proficiency**: SolidWorks, FlexSim
+- **Adaptability**: Thriving in dynamic environments and learning quickly
 
 ## 🌱 Currently Learning
-- Advanced JavaScript and React for dynamic web applications
-- AI tools and techniques to enhance front-end workflows
+- **Front-End Development**: Enrolled in an AI-assisted front-end development course
+- **English Language**: Actively working to improve my English proficiency
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/joseangelcastillo)
-- **Email**: joseangel@example.com
+- **Email**: angeljcaza1998@gmail.com
 
+Thanks for visiting my profile! Feel free to reach out if you're interested in vehicle technology, front-end development, or just want to connect!
 
 
 
