@@ -1,8 +1,5 @@
 
-Aquí tienes el README con las actualizaciones en la sección "Currently Learning":
 
-markdown
-Copiar código
 # Hi there! 👋 I'm José Ángel Castillo
 
 I'm a student of Automotive Systems Engineering with a specialization in Vehicle Technology. I’m passionate about advancing technology in the automotive field and working on projects that bring innovative solutions.
