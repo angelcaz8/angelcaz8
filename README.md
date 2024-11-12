@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**angelcaz8/angelcaz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola, soy José Ángel Castillo!
 
-Here are some ideas to get you started:
+Soy estudiante de **Ingeniería en Sistemas Automotrices** en la **Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato (UPIIG)**. Me apasiona la tecnología, especialmente en el ámbito de la automoción, y estoy constantemente buscando mejorar mis habilidades en programación y tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+- 🚗 **Especialización:** Enfocado en la tecnología y administración de vehículos.
+- 📚 **Estudiante actual:** Tomando un curso de desarrollo front-end asistido con IA para desarrollar habilidades en diseño web y tecnologías del lado del cliente.
+- 🌐 **Intereses:** Tecnología, administración de proyectos automotrices y la integración de soluciones digitales en el mundo automotriz.
+- 🎬 **Pasatiempos:** Me encanta ver series y explorar nuevos mundos a través de ellas.
+- 🇬🇧 **Estudio de inglés:** Actualmente avanzando en mi nivel de inglés, con la meta de llegar a nivel B2.
+- 🚀 **Aprendizaje continuo:** Me interesa aprender sobre inteligencia artificial y sus aplicaciones en la ingeniería automotriz.
+
+## 🛠️ Habilidades Técnicas
+- **Software de diseño**: SolidWorks, FlexSim.
+- **Herramientas de análisis**: Familiarizado con modelos de toma de decisiones cuantitativos (regresión, series temporales).
+  
+## 🌱 Actualmente estoy...
+- Participando en proyectos y tareas sobre administración de recursos humanos, análisis de datos automotrices y desarrollo de proyecciones financieras.
+- Practicando mis habilidades de programación en front-end y analizando cómo aplicar tecnologías web a la industria automotriz.
+- Mejorando mi comprensión del inglés con el objetivo de expandir mis oportunidades en el ámbito global.
+
+## 💬 ¡Hablemos!
+Estoy siempre abierto a conectar con otros estudiantes y profesionales en el área de tecnología y automoción. 
+
+Puedes encontrarme por GitHub. ¡Gracias por visitar mi perfil!
